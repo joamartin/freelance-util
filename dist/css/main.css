@@ -1,0 +1,15 @@
+
+label[for="hours-input"],
+label[for="minutes-input"] {
+  display: inline-block;
+  margin: 0 1rem 0 1.5rem;
+
+}
+
+button.submit {
+  margin: 0 2rem;
+}
+
+p#to-days-result {
+  display: inline-block;
+}
